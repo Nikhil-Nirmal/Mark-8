@@ -1,0 +1,27 @@
+body {
+  background: url("emoji.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.App {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.App {
+  width: 40% center;
+  margin: 10%;
+  background: url("bg.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 9%;
+}
+
+input {
+  color: aliceblue;
+  background: black;
+}
